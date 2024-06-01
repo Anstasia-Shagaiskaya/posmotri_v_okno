@@ -218,8 +218,8 @@ ol {
   display: flex;
   flex-direction: column;
   height: 298px;
-  overflow-y: scroll;
-  scrollbar-width: auto;
+  overflow-y: auto;
+  scrollbar-width: none;
   position: relative;
   justify-content: space-between;
   padding: 2px 30px 2px;
